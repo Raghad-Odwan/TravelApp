@@ -23,6 +23,18 @@ Make sure you have the following installed:
 
 Node.js (v14 or higher)
 
+
+This project is licensed under MIT License.
+
+
+## Requirements
+- Node.js version 22.13.1 or later is required to run this project.
+### Prerequisites
+- **Node.js v18+** (Recommended: v20 or later)
+- npm (comes with Node.js)
+- Node v.22.13.1
+
+
 npm (comes with Node.js)
 
 Steps to Install
